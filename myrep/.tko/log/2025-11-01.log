@@ -1,0 +1,9 @@
+2025-11-01 22:07:41, MOVE, v:1, k:poo@array, mode:PICK
+2025-11-01 22:33:38, EXEC, v:1, k:poo@array, mode:LOCK, rate:100, size:109
+2025-11-01 22:33:41, EXEC, v:1, k:poo@array, mode:LOCK, rate:100
+2025-11-01 22:33:42, EXEC, v:1, k:poo@array, mode:LOCK, rate:100
+2025-11-01 22:33:46, MOVE, v:1, k:poo@array, mode:BACK
+2025-11-01 22:34:34, SELF, v:1, k:poo@array, rate:100, iagen:sim, guide:sim, alone:1, study:60
+2025-11-01 22:35:19, MOVE, v:1, k:poo@budega, mode:PICK
+2025-11-01 22:35:20, EXEC, v:1, k:poo@budega, mode:FULL, rate:0, size:1
+2025-11-01 23:11:53, MOVE, v:1, k:poo@budega, mode:BACK

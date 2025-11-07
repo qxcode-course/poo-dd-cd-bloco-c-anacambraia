@@ -12,7 +12,7 @@ sources:
   type: clone
   branch: master
   cache_path: /workspaces/poo-dd-cd-bloco-c-anacambraia/myrep/.tko/cache/poo/Readme.md
-  cache_timestamp: '2025-11-06 17:35:35'
+  cache_timestamp: '2025-11-07 02:05:33'
   filters:
   - listas
 expanded:
@@ -20,7 +20,8 @@ expanded:
 - poo@bloco_c-listas
 tasks:
   poo@array: '{rate:100, iagen:sim, guide:sim, alone:10, study:60}'
-  poo@budega: '{rate:20}'
+  poo@budega: '{rate:100, human:sim, iagen:sim, guide:sim, alone:6, study:180}'
+  poo@lapiseira: '{rate:100, human:sim, alone:7, study:90}'
 flags:
   quests: 0
   tracks: 0
@@ -28,4 +29,4 @@ flags:
   graph: 1
   xray: 0
 lang: py
-selected: poo@budega
+selected: poo@lapiseira

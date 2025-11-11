@@ -3,7 +3,7 @@
 <!-- toch -->
 [Intro](#intro) | [Draft](#draft) | [Guide](#guide) | [Shell](#shell)
 -- | -- | -- | --
-<!-- toch -->
+<!-- toch -->V
 
 ![cover](cover.jpg)
 
@@ -34,7 +34,7 @@ Nosso objetivo no trabalho é modelar um gestor de pula pulas em um parquinho, c
 
 [![youtube icon](../youguide.png)](https://youtu.be/Uu94DgZYa_M?si=AzLR2so6o5CLiZTz)
 
-## Shell
+## Shell  
 
 ```bash
 #TEST_CASE unico

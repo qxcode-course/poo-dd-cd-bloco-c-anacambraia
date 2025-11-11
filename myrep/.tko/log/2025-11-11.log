@@ -1,0 +1,29 @@
+2025-11-11 17:22:57, MOVE, v:1, k:poo@pula-pula, mode:PICK
+2025-11-11 17:22:58, EXEC, v:1, k:poo@pula-pula, mode:FULL, rate:0, size:27
+2025-11-11 17:46:00, EXEC, v:1, k:poo@pula-pula, mode:FULL, rate:0, size:74
+2025-11-11 17:46:12, EXEC, v:1, k:poo@pula-pula, mode:FULL, rate:0, size:74
+2025-11-11 17:47:21, EXEC, v:1, k:poo@pula-pula, mode:FULL, rate:0, size:76
+2025-11-11 17:47:54, EXEC, v:1, k:poo@pula-pula, mode:FULL, rate:20, size:76
+2025-11-11 17:51:08, EXEC, v:1, k:poo@pula-pula, mode:FULL, rate:10, size:76
+2025-11-11 18:03:47, EXEC, v:1, k:poo@pula-pula, mode:FULL, rate:10
+2025-11-11 18:07:30, EXEC, v:1, k:poo@pula-pula, mode:FULL, rate:10
+2025-11-11 18:09:06, EXEC, v:1, k:poo@pula-pula, mode:FULL, rate:10
+2025-11-11 18:09:07, EXEC, v:1, k:poo@pula-pula, mode:FULL, rate:10
+2025-11-11 18:09:07, EXEC, v:1, k:poo@pula-pula, mode:FULL, rate:10
+2025-11-11 18:09:07, EXEC, v:1, k:poo@pula-pula, mode:FULL, rate:10
+2025-11-11 18:09:07, EXEC, v:1, k:poo@pula-pula, mode:FULL, rate:10
+2025-11-11 18:09:08, EXEC, v:1, k:poo@pula-pula, mode:FULL, rate:10
+2025-11-11 18:09:08, EXEC, v:1, k:poo@pula-pula, mode:FULL, rate:10
+2025-11-11 18:09:08, EXEC, v:1, k:poo@pula-pula, mode:FULL, rate:10
+2025-11-11 18:09:08, EXEC, v:1, k:poo@pula-pula, mode:FULL, rate:10
+2025-11-11 18:09:09, EXEC, v:1, k:poo@pula-pula, mode:FULL, rate:10
+2025-11-11 18:09:09, EXEC, v:1, k:poo@pula-pula, mode:FULL, rate:10
+2025-11-11 18:15:38, MOVE, v:1, k:poo@pula-pula, mode:PICK
+2025-11-11 18:15:40, EXEC, v:1, k:poo@pula-pula, mode:FULL, rate:20, size:77
+2025-11-11 18:17:25, EXEC, v:1, k:poo@pula-pula, mode:FULL, rate:20, size:80
+2025-11-11 18:17:40, EXEC, v:1, k:poo@pula-pula, mode:FULL, rate:50, size:80
+2025-11-11 18:19:23, EXEC, v:1, k:poo@pula-pula, mode:FULL, rate:70, size:82
+2025-11-11 18:20:20, EXEC, v:1, k:poo@pula-pula, mode:FULL, rate:40, size:84
+2025-11-11 18:21:08, EXEC, v:1, k:poo@pula-pula, mode:FULL, rate:100, size:86
+2025-11-11 18:21:46, MOVE, v:1, k:poo@pula-pula, mode:BACK
+2025-11-11 18:24:25, SELF, v:1, k:poo@pula-pula, rate:100, human:sim, iagen:sim, alone:7, study:140

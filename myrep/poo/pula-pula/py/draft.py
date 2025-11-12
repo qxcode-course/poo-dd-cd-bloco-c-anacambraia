@@ -1,60 +1,45 @@
-class Kid:
-    def __init__(self, nome : str, idade : int):
-        self.__nome = nome
-        self.__idade = idade
-
-    def getNome(self):
-        return self.__nome
-    
-    def getIdade(self):
-        return self.__idade
-    
-    def __str__(self) -> str:
-        return f"{self.__nome}:{self.__idade}"
-    
-class Trampoline:
-    def __init__(self):
-        self.playing = []
-        self.waiting = []
-    
-    def arrive(self, kid):
-        self.waiting.insert(0, kid)
-
-    def enter(self):
-        if self.waiting:
-            kid = self.waiting.pop()
-            self.playing.insert(0, kid)
-
-    def leave(self):
-        if self.playing:
-            kid = self.playing.pop()
-            self.waiting.insert(0, kid)
-
-    def remove(self, name):
-        for i, kid in enumerate(self.waiting):
-            if kid.getNome() == name:
-                del self.waiting[i]
-                return
-        for i, kid in enumerate(self.playing):
-            if kid.getNome() == name:
-                del self.playing[i]
-                return
-        print(f"fail: {name} nao esta no pula-pula")
+class Client:
+    def __init__(self, id, phone):
+        self.id = id
+        self.phone = phone
 
     def __str__(self):
-        saida = "["
-        for i in range(len(self.waiting)):
-            saida += str(self.waiting[i])
-            if i < len(self.waiting) - 1:
-                saida += ", "
-        saida += "] => ["
-        for i in range(len(self.playing)):
-            saida += str(self.playing[i])
-            if i < len(self.playing) - 1:
-                saida += ", "
-        saida += "]"
-        return saida
+        return f"{self.id}:{self.phone}"
 
+
+class Theater:
+    def __init__(self, num_seats=0):
+        self.seats = [None] * num_seats
+
+    def reserve(self, id, phone, index):
+        if not self._verify_index(index):
+            raise Exception("cadeira nao existe")
+        if self.seats[index] is not None:
+            raise Exception("cadeira ja esta ocupada")
+        if self._search(id) != -1:
+            raise Exception("cliente ja esta no cinema")
+        self.seats[index] = Client(id, phone)
+
+    def cancel(self, id):
+        index = self._search(id)
+        if index == -1:
+            raise Exception("cliente nao esta no cinema")
+        self.seats[index] = None
+
+    def _search(self, id):
+        for i, seat in enumerate(self.seats):
+            if seat and seat.id == id:
+                return i
+        return -1
+
+    def _verify_index(self, index):
+        return 0 <= index < len(self.seats)
+
+    def __str__(self):
+        if not self.seats:
+            return "[]"
+        parts = [str(seat) if seat else "-" for seat in self.seats]
+        return "[" + " ".join(parts) + "]"
 
 
 def main():
@@ -79,6 +64,7 @@ def main():
         elif args[0] == "remove":
             name = args[1]
             pula.remove(name)
+        elif args[0] == "init":
 
 
 

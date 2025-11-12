@@ -1,0 +1,204 @@
+{
+    "patches": [
+        {
+            "label": "2025-11-11_18-26-27",
+            "content": "@@ -1,12 +0,0 @@\n-jhsvasgvcgv \n",
+            "lines": "0"
+        },
+        {
+            "label": "2025-11-11_18-58-48",
+            "content": "@@ -9,128 +9,4 @@\n cgv \n-%0Aifgsib%0Anfjnv%0Asldmk%0Alknk,%0Avkkvdm%0Amn%C2%B4%5Dv,%5B%0Akmv,v%0A%C3%A7%C2%B4mv%C2%B4,v%0A%5B%0A%0A    %C2%B4mb%5B%0A        %C3%A7g%0A        %5Bf%C2%B4nbnb%0A         %5Bmb%C2%B4dfmbs%5D%5D%0A    %5D%0A%5D%0A%5D\n",
+            "lines": "1"
+        },
+        {
+            "label": "2025-11-11_18-59-03",
+            "content": "@@ -133,71 +133,4 @@\n %0A%5D%0A%5D\n-%0Ajfbbfjnub%0Anhujbdefjb%0Ajbfuihrofn%0Anfkjbuhbweo%0Akfnouhruobnwbr%0Ajbfjuob\n",
+            "lines": "18"
+        },
+        {
+            "label": "2025-11-11_19-26-11",
+            "content": "@@ -200,53 +200,4 @@\n juob\n-%0Aofkjokw%0Aomg5%0Akrgnpk%0Aakwmnlkbn gkenfonri%0Aemgiwnge\n",
+            "lines": "24"
+        },
+        {
+            "label": "2025-11-11_19-30-36",
+            "content": "@@ -1,212 +1,252 @@\n-class Primo:%0A    def __init__ (self, n : int):%0A        self.__n = n%0A    for(int i = 2; i %3C n i++)%0A        if (n %25 i == 0):%0A        i++%0A        else:%0A            break%0A            print(%22esse n%C3%BAmero n%C3%A3o %C3%A9 primo%22)%0A\n+jhsvasgvcgv %0Aifgsib%0Anfjnv%0Asldmk%0Alknk,%0Avkkvdm%0Amn%C2%B4%5Dv,%5B%0Akmv,v%0A%C3%A7%C2%B4mv%C2%B4,v%0A%5B%0A%0A    %C2%B4mb%5B%0A        %C3%A7g%0A        %5Bf%C2%B4nbnb%0A         %5Bmb%C2%B4dfmbs%5D%5D%0A    %5D%0A%5D%0A%5D%0Ajfbbfjnub%0Anhujbdefjb%0Ajbfuihrofn%0Anfkjbuhbweo%0Akfnouhruobnwbr%0Ajbfjuob%0Aofkjokw%0Aomg5%0Akrgnpk%0Aakwmnlkbn gkenfonri%0Aemgiwnge\n",
+            "lines": "29"
+        },
+        {
+            "label": "2025-11-11_19-46-37",
+            "content": "@@ -209,262 +209,4 @@\n o%22)%0A\n-%0Advjoidngn%0Admjvidjhni%0A    %0A    %C3%A7v,dolmkijvnmdofbnvhufdbyudgkisbdg  jfiddddddsp~zzzzzziiiiifdjmvz%0A    dnssshpivfjuxl%C3%A7%C3%A7%C3%A7%C3%A7%C3%A7%C3%A7%C3%A7%C3%A7%C3%A7%C3%A7%C3%A7%C3%A7%C3%A7%C3%A7%C3%A7%C3%A7%C3%A7%C3%A7%C3%A7%C3%A7%C3%A7%C3%A7%C3%A7bvvvvvvvvvvvvvvvvvvvvvvvvvvgsop0%0A    s%C3%B3kddddddddddddddddddddgmmmmmmmmmmmmmmmmmmmmmmmmmmididididididididididididididididf\n",
+            "lines": "9"
+        },
+        {
+            "label": "2025-11-11_20-16-15",
+            "content": "@@ -467,7 +467,4 @@\n didf\n-555\n",
+            "lines": "16"
+        },
+        {
+            "label": "2025-11-11_21-18-45",
+            "content": "@@ -470,616 +470,4 @@\n f555\n-%0A    ijfdehnjheihifidjfe%0A    jefdjkcebwkjabjdbejbfl%C3%A7%0A    fnhjuwhbrgufvjwbwhqbgrrhnrw%0A    201u84hu73y2591y%0A    eibfu34gburg29ugut%0A    jbrehfuhqunfun3-4f%0A    2o94fhg5jog5-3952t%0A    13-49ujf4-39gju%0A    3tgju95-48u1j%0A    g%0A    1hig59hjgf01=yut-593ihjg5%0A    1t9igh8049r3hjgnfvi3k3nfj2%0A    ih4njrifhj-92nvh %0A    2nfh2juebn44ff0p9hfn2%5Bandik4enhrfn%0A                          %0A                          nfdh8i2hjnfd%0A                          23in4fh%5B2-inhf8ichn2%0A                                  n4iunhfuinh4jrf1%0A                                  in4ujfbrc9ubn2q   pikbdnn n%0A                                   i4nfk2n4%5D%5D\n",
+            "lines": "16"
+        },
+        {
+            "label": "2025-11-11_21-37-51",
+            "content": "@@ -754,8 +754,332 @@\n     ih4n\n+jrifhj-92nvh %0A    2nfh2juebn44ff0p9hfn2%5Bandik4enhrfn%0A                          %0A                          nfdh8i2hjnfd%0A                          23in4fh%5B2-inhf8ichn2%0A                                  n4iunhfuinh4jrf1%0A                                  in4ujfbrc9ubn2q   pikbdnn n%0A                                   i4nfk2n4%5D%5D\n",
+            "lines": "36"
+        },
+        {
+            "label": "2025-11-11_21-38-36",
+            "content": "@@ -758,47 +758,4 @@\n ih4n\n-%0A    kjhghfdssa%0A    kijbgfsxaz%0A    kjgfdsaz\n",
+            "lines": "29"
+        },
+        {
+            "label": "2025-11-11_21-39-06",
+            "content": "@@ -1,20 +1,19 @@\n class \n-Client\n+Primo\n :%0A    de\n@@ -26,1798 +26,779 @@\n it__\n+ \n (self, \n-id, phone):%0A        self.id = id%0A        self.phone = phone%0A%0A    def get_id(self):%0A        return self.id\n+n : int):%0A        self.__n = n%0A    for(int i = 2; i %3C n i++)\n %0A    \n-%0A \n    \n-def set_id(self, id):%0A        self.id = id%0A%0A    def get_phone(self):%0A        return self.phone\n+ if (n %25 i == 0):%0A        i++\n %0A    \n-%0A\n     \n-def set_phone(self, phone):%0A        self.phone = phone%0A%0A    def __str__(self):%0A        return f%22%7Bself.id%7D:%7Bself.phone%7D%22%0A    %0Aclass Theater:%0A    def __init__(self, num_seats=10):%0A        self.seats = %5BNone%5D * num_seats%0A%0A    def reserve(self, id, phone, index):\n+else:%0A            break%0A            print(%22esse n%C3%BAmero n%C3%A3o %C3%A9 primo%22)%0A%0Advjoidngn%0Admjvidjhni\n %0A    \n+%0A\n     \n-if not self._verify_index(index):%0A            raise ValueError(f%22%C3%8Dndice %7Bindex%7D inv%C3%A1lido%22)%0A        if self.seats%5Bindex%5D is not None:%0A            raise ValueError(f%22Cadeira %7Bindex%7D j%C3%A1 est%C3%A1 ocupada%22)%0A        existing_index = self._search(id)%0A        if existing_index != -1:%0A            raise ValueError(f%22Cliente %7Bid%7D j%C3%A1 tem uma reserva na cadeira %7Bexisting_index%7D%22)%0A        self.seats%5Bindex%5D = Client(id, phone)%0A%0A    def cancel(self, id):%0A        index = self._search(id)%0A        if index == -1:%0A            raise ValueError(f%22Cliente %7Bid%7D n%C3%A3o tem reserva%22)%0A        self.seats%5Bindex%5D = None%0A%0A    def get_seats(self):%0A        return self.seats.copy()%0A    %0A    def _search(self, name):%0A        for i, seat in enumerate(self.seats):%0A            if seat and seat.get_id() == name:%0A                return i%0A        return -1%0A    %0A    def _verify_index(self, index):%0A        return 0 %3C= index %3C len(self.seats)%0A    %0A    def __str__(self):%0A        seat_strs = %5Bstr(seat) if seat else %22null%22 for seat in self.seats%5D%0A        return f%22%5B%7B', '.join(seat_strs)%7D%5D%22%0A    %0Adef main():%0A    cinema = Theater()%0A    while True:%0A        line = input()%0A        print(%22$%22 + line)%0A        args = line.split(%22 %22)%0A        if args%5B0%5D == %22end%22:%0A            break%0A        elif args%5B0%5D == %22show%22:%0A            print(cinema)%0A%0Amain()%0A\n+%C3%A7v,dolmkijvnmdofbnvhufdbyudgkisbdg  jfiddddddsp~zzzzzziiiiifdjmvz%0A    dnssshpivfjuxl%C3%A7%C3%A7%C3%A7%C3%A7%C3%A7%C3%A7%C3%A7%C3%A7%C3%A7%C3%A7%C3%A7%C3%A7%C3%A7%C3%A7%C3%A7%C3%A7%C3%A7%C3%A7%C3%A7%C3%A7%C3%A7%C3%A7%C3%A7bvvvvvvvvvvvvvvvvvvvvvvvvvvgsop0%0A    s%C3%B3kddddddddddddddddddddgmmmmmmmmmmmmmmmmmmmmmmmmmmididididididididididididididididf555%0A    ijfdehnjheihifidjfe%0A    jefdjkcebwkjabjdbejbfl%C3%A7%0A    fnhjuwhbrgufvjwbwhqbgrrhnrw%0A    201u84hu73y2591y%0A    eibfu34gburg29ugut%0A    jbrehfuhqunfun3-4f%0A    2o94fhg5jog5-3952t%0A    13-49ujf4-39gju%0A    3tgju95-48u1j%0A    g%0A    1hig59hjgf01=yut-593ihjg5%0A    1t9igh8049r3hjgnfvi3k3nfj2%0A    ih4n%0A    kjhghfdssa%0A    kijbgfsxaz%0A    kjgfdsaz\n",
+            "lines": "32"
+        },
+        {
+            "label": "2025-11-12_00-15-02",
+            "content": "@@ -1499,10 +1499,12 @@\n se %22\n-%5B%5D\n+null\n %22 fo\n",
+            "lines": "68"
+        },
+        {
+            "label": "2025-11-12_00-15-26",
+            "content": "@@ -1495,17 +1495,18 @@\n t else %22\n- \n+%5B%5D\n %22 for se\n",
+            "lines": "68"
+        },
+        {
+            "label": "2025-11-12_00-15-36",
+            "content": "@@ -1495,16 +1495,17 @@\n t else %22\n+ \n %22 for se\n",
+            "lines": "68"
+        },
+        {
+            "label": "2025-11-12_00-15-45",
+            "content": "@@ -1454,59 +1454,8 @@\n f):%0A\n-        if not self.seats:%0A            return %22%5B%5D%22%0A\n     \n@@ -1495,17 +1495,16 @@\n t else %22\n--\n %22 for se\n",
+            "lines": "68"
+        },
+        {
+            "label": "2025-11-12_00-20-56",
+            "content": "@@ -1176,202 +1176,8 @@\n    %0A\n-    def __str__(self):%0A        if not self.seats:%0A            return %22%5B%5D%22%0A        seat_strs = %5Bstr(seat) if seat else %22-%22 for seat in self.seats%5D%0A        return f%22%5B%7B', '.join(seat_strs)%7D%5D%22%0A    %0A\n     \n@@ -1427,24 +1427,208 @@\n s)%0A    %0A    \n+def __str__(self):%0A        if not self.seats:%0A            return %22%5B%5D%22%0A        seat_strs = %5Bstr(seat) if seat else %22-%22 for seat in self.seats%5D%0A        return f%22%5B%7B', '.join(seat_strs)%7D%5D%22\n %0A    %0Adef ma\n",
+            "lines": "70"
+        },
+        {
+            "label": "2025-11-12_00-23-10",
+            "content": "@@ -1813,83 +1813,8 @@\n eak%0A\n-        elif args%5B0%5D == %22init%22:%0A            cinema = Theater(int(args%5B1%5D))%0A\n     \n",
+            "lines": "72"
+        },
+        {
+            "label": "2025-11-12_01-17-28",
+            "content": "@@ -1254,20 +1254,24 @@\n         \n-part\n+seat_str\n s = %5Bstr\n@@ -1337,33 +1337,33 @@\n urn \n+f\n %22%5B\n-%22 + %22 %22.join(parts) + %22\n+%7B', '.join(seat_strs)%7D\n %5D%22%0A \n",
+            "lines": "74"
+        },
+        {
+            "label": "2025-11-12_01-18-47",
+            "content": "@@ -422,16 +422,17 @@\n m_seats=\n+1\n 0):%0A    \n",
+            "lines": "74"
+        },
+        {
+            "label": "2025-11-12_01-19-04",
+            "content": "@@ -1941,103 +1941,8 @@\n ma)%0A\n-        elif args%5B0%5D == %22reserve%22:%0A            cinema.reserve(args%5B1%5D, args%5B2%5D, int(args%5B3%5D))%0A%0A\n %0Amai\n",
+            "lines": "74"
+        },
+        {
+            "label": "2025-11-12_01-20-13",
+            "content": "@@ -2035,77 +2035,8 @@\n %5D))%0A\n-        elif args%5B0%5D == %22cancel%22:%0A            cinema.cancel(args%5B1%5D)%0A\n %0A%0Ama\n",
+            "lines": "77"
+        },
+        {
+            "label": "2025-11-12_01-21-06",
+            "content": "@@ -581,17 +581,17 @@\n Error(f%22\n-i\n+%C3%8D\n ndice %7Bi\n@@ -599,17 +599,17 @@\n dex%7D inv\n-a\n+%C3%A1\n lido%22)%0A \n@@ -680,17 +680,17 @@\n Error(f%22\n-c\n+C\n adeira %7B\n@@ -701,14 +701,14 @@\n x%7D j\n-a\n+%C3%A1\n  est\n-a\n+%C3%A1\n  ocu\n@@ -812,33 +812,33 @@\n se ValueError(f%22\n-c\n+C\n liente %7Bid%7D ja t\n@@ -834,17 +834,17 @@\n e %7Bid%7D j\n-a\n+%C3%A1\n  tem uma\n@@ -1043,17 +1043,17 @@\n Error(f%22\n-c\n+C\n liente %7B\n@@ -1057,17 +1057,17 @@\n e %7Bid%7D n\n-a\n+%C3%A3\n o tem re\n",
+            "lines": "79"
+        },
+        {
+            "label": "2025-11-12_01-23-51",
+            "content": "@@ -572,37 +572,44 @@\n ise \n-Exception(%22cadeira nao existe\n+ValueError(f%22indice %7Bindex%7D invalido\n %22)%0A \n@@ -671,26 +671,28 @@\n ise \n-Exception(\n+ValueError(f\n %22cadeira\n  ja \n@@ -687,16 +687,24 @@\n %22cadeira\n+ %7Bindex%7D\n  ja esta\n@@ -718,26 +718,40 @@\n a%22)%0A        \n-if\n+existing_index =\n  self._searc\n@@ -759,70 +759,132 @@\n (id)\n- != -1:%0A            raise Exception(%22cliente ja esta no cinema\n+%0A        if existing_index != -1:%0A            raise ValueError(f%22cliente %7Bid%7D ja tem uma reserva na cadeira %7Bexisting_index%7D\n %22)%0A \n@@ -929,17 +929,16 @@\n phone)%0A%0A\n-%0A\n     def \n@@ -1034,44 +1034,48 @@\n ise \n-Exception(%22cliente nao esta no cinem\n+ValueError(f%22cliente %7Bid%7D nao tem reserv\n a%22)%0A\n@@ -1108,17 +1108,16 @@\n = None%0A%0A\n-%0A\n     def \n",
+            "lines": "79"
+        },
+        {
+            "label": "2025-11-12_01-28-56",
+            "content": "@@ -2009,59 +2009,8 @@\n 1%5D)%0A\n-    except Exception as e:%0A    print(f%22fail: %7Be%7D%22)%0A\n %0A%0Ama\n",
+            "lines": "80"
+        },
+        {
+            "label": "2025-11-12_01-30-18",
+            "content": "@@ -2005,16 +2005,67 @@\n rgs%5B1%5D)%0A\n+    except Exception as e:%0A    print(f%22fail: %7Be%7D%22)%0A\n %0A%0Amain()\n",
+            "lines": "82"
+        },
+        {
+            "label": "2025-11-12_01-31-02",
+            "content": "@@ -88,20 +88,13 @@\n e = \n-int(\n phone\n-)  \n %0A%0A  \n@@ -302,18 +302,13 @@\n e = \n-int(\n phone\n-)\n %0A%0A  \n@@ -836,16 +836,17 @@\n phone)%0A%0A\n+%0A\n     def \n@@ -1008,24 +1008,25 @@\n ex%5D = None%0A%0A\n+%0A\n     def get_\n@@ -1521,16 +1521,26 @@\n s)%0A    %0A\n+    %0A    %0A\n def main\n@@ -1547,23 +1547,8 @@\n ():%0A\n-    import sys%0A\n     \n@@ -1574,29 +1574,18 @@\n     \n-for line in sys.stdin\n+while True\n :%0A  \n@@ -1601,18 +1601,13 @@\n e = \n-l\n in\n-e.strip\n+put\n ()%0A \n@@ -1617,119 +1617,25 @@\n     \n-if not line:%0A            continue%0A        if line.startswith('$'):%0A            line = line%5B1:%5D  # Remover o '$'\n+print(%22$%22 + line)\n %0A   \n@@ -1661,27 +1661,13 @@\n lit(\n+%22 %22\n )%0A\n-        try:%0A    \n     \n@@ -1707,22 +1707,14 @@\n     \n-   \n- \n break%0A\n-    \n     \n@@ -1741,20 +1741,16 @@\n %22init%22:%0A\n-    \n         \n@@ -1784,36 +1784,32 @@\n gs%5B1%5D))%0A        \n-    \n elif args%5B0%5D == \n@@ -1824,28 +1824,24 @@\n             \n-    \n print(cinema\n@@ -1842,36 +1842,32 @@\n cinema)%0A        \n- \n-   \n elif args%5B0%5D == \n@@ -1877,20 +1877,16 @@\n serve%22:%0A\n-    \n         \n@@ -1940,28 +1940,24 @@\n %5D))%0A        \n-  \n-  \n elif args%5B0%5D\n@@ -1978,28 +1978,24 @@\n             \n-    \n cinema.cance\n@@ -2009,103 +2009,10 @@\n 1%5D)%0A\n-        except Exception as e:%0A            print(f%22fail: %7Be%7D%22)%0A%0Aif __name__ == %22__main__%22:%0A    \n+%0A%0A\n main\n",
+            "lines": "80"
+        },
+        {
+            "label": "2025-11-12_01-34-14",
+            "content": "@@ -1551,18 +1551,67 @@\n     \n-while True\n+import sys%0A    cinema = Theater()%0A    for line in sys.stdin\n :%0A  \n@@ -1627,13 +1627,18 @@\n e = \n+l\n in\n-put\n+e.strip\n ()%0A \n@@ -1648,25 +1648,20 @@\n     \n-print(%22$%22 +\n+if not\n  line\n-)\n+:\n %0A   \n@@ -1669,78 +1669,144 @@\n     \n-args = line.split(%22 %22)%0A        if args%5B0%5D == %22end%22:%0A            break%0A\n+    continue%0A        if line.startswith('$'):%0A            line = line%5B1:%5D  # Remover o '$'%0A        args = line.split()%0A        try:%0A    \n     \n@@ -1852,16 +1852,20 @@\n   break%0A\n+    \n         \n@@ -1935,32 +1935,36 @@\n gs%5B1%5D))%0A        \n+  \n+  \n elif args%5B0%5D == \n@@ -2001,16 +2001,20 @@\n cinema)%0A\n+    \n         \n@@ -2103,32 +2103,36 @@\n gs%5B3%5D))%0A        \n+    \n elif args%5B0%5D == \n@@ -2192,11 +2192,95 @@\n     \n-%0A%0A%0A\n+except Exception as e:%0A            print(f%22fail: %7Be%7D%22)%0A%0Aif __name__ == %22__main__%22:%0A    \n main\n",
+            "lines": "83"
+        },
+        {
+            "label": "2025-11-12_01-35-20",
+            "content": "@@ -1547,31 +1547,8 @@\n ():%0A\n-    cinema = Theater()%0A\n     \n",
+            "lines": "78"
+        },
+        {
+            "label": "2025-11-12_01-35-46",
+            "content": "@@ -84,21 +84,28 @@\n phone = \n+int(\n phone\n+)  \n %0A%0A    de\n@@ -147,59 +147,180 @@\n .id%0A\n-%0A    def get_phone(self):%0A        return self.phone\n+    %0A    def set_id(self, id):%0A        self.id = id%0A%0A    def get_phone(self):%0A        return self.phone%0A    %0A    def set_phone(self, phone):%0A        self.phone = int(phone)\n %0A%0A  \n@@ -381,17 +381,20 @@\n phone%7D%22%0A\n-%0A\n+    \n %0Aclass T\n@@ -424,30 +424,27 @@\n _(self, \n-count_cadeiras\n+num_seats=0\n ):%0A     \n@@ -451,23 +451,20 @@\n    self.\n-cadeira\n+seat\n s = %5BNon\n@@ -468,331 +468,54 @@\n None\n- for _ in range(count_cadeiras)%5D%0A%0A    def v_index(self, index):%0A        return 0 %3C= index %3C len(self.cadeiras)%0A%0A    def _search(self, id):%0A        for i, client in enumerate(self.cadeiras):%0A            if client is not None and client.get_id() == id:%0A                return i%0A        return -1%0A%0A    def reserve(self, client\n+%5D * num_seats%0A%0A    def reserve(self, id, phone\n , in\n@@ -540,17 +540,23 @@\n ot self.\n-v\n+_verify\n _index(i\n@@ -570,37 +570,41 @@\n             \n-print(%22fail: \n+raise Exception(%22\n cadeira nao \n@@ -612,36 +612,16 @@\n xiste%22)%0A\n-            return%0A%0A\n         \n@@ -624,31 +624,28 @@\n     if self.\n-cadeira\n+seat\n s%5Bindex%5D is \n@@ -666,29 +666,33 @@\n         \n-print(%22fail: \n+raise Exception(%22\n cadeira \n@@ -709,36 +709,16 @@\n upada%22)%0A\n-            return%0A%0A\n         \n@@ -737,23 +737,10 @@\n rch(\n-client.get_id()\n+id\n ) !=\n@@ -752,37 +752,41 @@\n             \n-print(%22fail: \n+raise Exception(%22\n cliente ja e\n@@ -805,28 +805,8 @@\n a%22)%0A\n-            return%0A%0A\n     \n@@ -814,23 +814,20 @@\n    self.\n-cadeira\n+seat\n s%5Bindex%5D\n@@ -829,22 +829,33 @@\n ndex%5D = \n-c\n+C\n lient\n+(id, phone)\n %0A%0A    de\n@@ -882,17 +882,21 @@\n         \n-c\n+index\n  = self.\n@@ -918,17 +918,21 @@\n      if \n-c\n+index\n  == -1:%0A\n@@ -947,21 +947,25 @@\n     \n-print(%22fail: \n+raise Exception(%22\n clie\n@@ -1001,93 +1001,169 @@\n     \n-    return%0A        self.cadeiras%5Bc%5D = None%0A%0A    def __str__(self):%0A        saida =\n+self.seats%5Bindex%5D = None%0A%0A    def get_seats(self):%0A        return self.seats.copy()%0A    %0A    def __str__(self):%0A        if not self.seats:%0A            return\n  %22%5B\n+%5D\n %22%0A  \n@@ -1172,284 +1172,365 @@\n     \n-for i, client in enumerate(self.cadeiras):%0A            if client is not None:\n+parts = %5Bstr(seat) if seat else %22-%22 for seat in self.seats%5D%0A        return %22%5B%22 + %22 %22.join(parts) + %22%5D%22\n %0A    \n+%0A\n     \n-        saida += str(client)%0A            else:%0A                saida += %22-%22%0A            if i %3C len(self.cadeiras) - 1:%0A                saida += %22 %22%0A        saida += %22%5D%22%0A        return saida%0A\n+def _search(self, name):%0A        for i, seat in enumerate(self.seats):%0A            if seat and seat.get_id() == name:%0A                return i%0A        return -1%0A    %0A    def _verify_index(self, index):%0A        return 0 %3C= index %3C len(self.seats)\n %0A   \n",
+            "lines": "79"
+        },
+        {
+            "label": "2025-11-12_01-42-43",
+            "content": "@@ -1601,10 +1601,8 @@\n ter(\n-%22%22\n )%0A  \n",
+            "lines": "85"
+        },
+        {
+            "label": "2025-11-12_01-42-58",
+            "content": "@@ -355,20 +355,16 @@\n n range(\n-int(\n count_ca\n@@ -370,17 +370,16 @@\n adeiras)\n-)\n %5D%0A%0A    d\n",
+            "lines": "85"
+        },
+        {
+            "label": "2025-11-12_01-50-06",
+            "content": "@@ -149,153 +149,45 @@\n def \n-set_id(self, id):%0A        self.id = id%0A%0A    def get_phone(self):%0A        return self.phone%0A%0A    def set_phone(self, phone):%0A        self.phone = \n+get_phone(self):%0A        return self.\n phon\n@@ -254,16 +254,17 @@\n hone%7D%22%0A%0A\n+%0A\n class Th\n@@ -297,19 +297,22 @@\n lf, \n-num_seats=0\n+count_cadeiras\n ):%0A \n@@ -323,20 +323,23 @@\n    self.\n-seat\n+cadeira\n s = %5BNon\n@@ -343,54 +343,336 @@\n None\n-%5D * num_seats%0A%0A    def reserve(self, id, phone\n+ for _ in range(int(count_cadeiras))%5D%0A%0A    def v_index(self, index):%0A        return 0 %3C= index %3C len(self.cadeiras)%0A%0A    def _search(self, id):%0A        for i, client in enumerate(self.cadeiras):%0A            if client is not None and client.get_id() == id:%0A                return i%0A        return -1%0A%0A    def reserve(self, client\n , in\n@@ -697,23 +697,17 @@\n ot self.\n-_verify\n+v\n _index(i\n@@ -725,33 +725,29 @@\n         \n-raise Exception(%22\n+print(%22fail: \n cadeira \n@@ -759,16 +759,36 @@\n xiste%22)%0A\n+            return%0A%0A\n         \n@@ -791,28 +791,31 @@\n     if self.\n-seat\n+cadeira\n s%5Bindex%5D is \n@@ -836,33 +836,29 @@\n         \n-raise Exception(%22\n+print(%22fail: \n cadeira \n@@ -887,67 +887,60 @@\n     \n-existing_index = self._search(id)%0A        if existing_index\n+    return%0A%0A        if self._search(client.get_id())\n  != \n@@ -955,33 +955,29 @@\n         \n-raise Exception(%22\n+print(%22fail: \n cliente \n@@ -1000,33 +1000,56 @@\n a%22)%0A        \n-self.seat\n+    return%0A%0A        self.cadeira\n s%5Bindex%5D = C\n@@ -1051,25 +1051,14 @@\n %5D = \n-C\n+c\n lient\n-(id, phone)\n %0A%0A  \n@@ -1089,21 +1089,17 @@\n         \n-index\n+c\n  = self.\n@@ -1121,21 +1121,17 @@\n      if \n-index\n+c\n  == -1:%0A\n@@ -1146,25 +1146,21 @@\n     \n-raise Exception(%22\n+print(%22fail: \n clie\n@@ -1196,24 +1196,42 @@\n     \n-self.seats%5Bindex\n+    return%0A        self.cadeiras%5Bc\n %5D = \n@@ -1248,17 +1248,15 @@\n def \n-get_seats\n+__str__\n (sel\n@@ -1271,474 +1271,306 @@\n     \n-return self.seats.copy()%0A%0A    def __str__(self):%0A        if not self.seats:%0A            return %22%5B%5D%22%0A        seat_strs = %5Bstr(seat) if seat else %22-%22 for seat in self.seats%5D%0A        return %22%5B%22 + %22 %22.join(seat_strs) + %22%5D%22%0A%0A    def _search(self, name):%0A        for i, seat in enumerate(self.seats):%0A            if seat and seat.get_id() == name:%0A                return i%0A        return -1%0A%0A    def _verify_index(self, index):%0A        return 0 %3C= index %3C len(self.seats)%0A\n+saida = %22%5B%22%0A        for i, client in enumerate(self.cadeiras):%0A            if client is not None:%0A                saida += str(client)%0A            else:%0A                saida += %22-%22%0A            if i %3C len(self.cadeiras) - 1:%0A                saida += %22 %22%0A        saida += %22%5D%22%0A        return saida%0A%0A \n    %0A\n@@ -1602,16 +1602,18 @@\n Theater(\n+%22%22\n )%0A    wh\n",
+            "lines": "85"
+        },
+        {
+            "label": "2025-11-12_01-53-27",
+            "content": "@@ -400,30 +400,27 @@\n _(self, \n-count_cadeiras\n+num_seats=0\n ):%0A     \n@@ -427,23 +427,20 @@\n    self.\n-cadeira\n+seat\n s = %5BNon\n@@ -444,331 +444,54 @@\n None\n- for _ in range(count_cadeiras)%5D%0A%0A    def v_index(self, index):%0A        return 0 %3C= index %3C len(self.cadeiras)%0A%0A    def _search(self, id):%0A        for i, client in enumerate(self.cadeiras):%0A            if client is not None and client.get_id() == id:%0A                return i%0A        return -1%0A%0A    def reserve(self, client\n+%5D * num_seats%0A%0A    def reserve(self, id, phone\n , in\n@@ -516,17 +516,23 @@\n ot self.\n-v\n+_verify\n _index(i\n@@ -546,37 +546,41 @@\n             \n-print(%22fail: \n+raise Exception(%22\n cadeira nao \n@@ -588,36 +588,16 @@\n xiste%22)%0A\n-            return%0A%0A\n         \n@@ -600,31 +600,28 @@\n     if self.\n-cadeira\n+seat\n s%5Bindex%5D is \n@@ -642,29 +642,33 @@\n         \n-print(%22fail: \n+raise Exception(%22\n cadeira \n@@ -697,60 +697,67 @@\n     \n-    return%0A%0A        if self._search(client.get_id())\n+existing_index = self._search(id)%0A        if existing_index\n  != \n@@ -768,37 +768,41 @@\n             \n-print(%22fail: \n+raise Exception(%22\n cliente ja e\n@@ -829,40 +829,17 @@\n     \n-    return%0A%0A        self.cadeira\n+self.seat\n s%5Bin\n@@ -845,22 +845,33 @@\n ndex%5D = \n-c\n+C\n lient\n+(id, phone)\n %0A%0A    de\n@@ -898,17 +898,21 @@\n         \n-c\n+index\n  = self.\n@@ -934,17 +934,21 @@\n      if \n-c\n+index\n  == -1:%0A\n@@ -963,21 +963,25 @@\n     \n-print(%22fail: \n+raise Exception(%22\n clie\n@@ -1017,50 +1017,91 @@\n     \n-    return%0A        self.cadeiras%5Bc%5D = None\n+self.seats%5Bindex%5D = None%0A%0A    def get_seats(self):%0A        return self.seats.copy()\n %0A%0A  \n@@ -1290,16 +1290,263 @@\n s) + %22%5D%22\n+%0A%0A    def _search(self, name):%0A        for i, seat in enumerate(self.seats):%0A            if seat and seat.get_id() == name:%0A                return i%0A        return -1%0A%0A    def _verify_index(self, index):%0A        return 0 %3C= index %3C len(self.seats)\n %0A   %0Adef\n",
+            "lines": "80"
+        },
+        {
+            "label": "2025-11-12_02-01-11",
+            "content": "@@ -1572,10 +1572,8 @@\n ter(\n-%22%22\n )%0A  \n",
+            "lines": "83"
+        },
+        {
+            "label": "2025-11-12_02-01-27",
+            "content": "@@ -404,19 +404,22 @@\n lf, \n-num_seats=0\n+count_cadeiras\n ):%0A \n@@ -430,20 +430,23 @@\n    self.\n-seat\n+cadeira\n s = %5BNon\n@@ -450,54 +450,331 @@\n None\n-%5D * num_seats%0A%0A    def reserve(self, id, phone\n+ for _ in range(count_cadeiras)%5D%0A%0A    def v_index(self, index):%0A        return 0 %3C= index %3C len(self.cadeiras)%0A%0A    def _search(self, id):%0A        for i, client in enumerate(self.cadeiras):%0A            if client is not None and client.get_id() == id:%0A                return i%0A        return -1%0A%0A    def reserve(self, client\n , in\n@@ -799,23 +799,17 @@\n ot self.\n-_verify\n+v\n _index(i\n@@ -827,33 +827,29 @@\n         \n-raise Exception(%22\n+print(%22fail: \n cadeira \n@@ -861,16 +861,36 @@\n xiste%22)%0A\n+            return%0A%0A\n         \n@@ -893,28 +893,31 @@\n     if self.\n-seat\n+cadeira\n s%5Bindex%5D is \n@@ -938,33 +938,29 @@\n         \n-raise Exception(%22\n+print(%22fail: \n cadeira \n@@ -989,67 +989,60 @@\n     \n-existing_index = self._search(id)%0A        if existing_index\n+    return%0A%0A        if self._search(client.get_id())\n  != \n@@ -1057,33 +1057,29 @@\n         \n-raise Exception(%22\n+print(%22fail: \n cliente \n@@ -1090,32 +1090,52 @@\n sta no cinema%22)%0A\n+            return%0A%0A\n         self.sea\n@@ -1123,36 +1123,39 @@\n n%0A%0A        self.\n-seat\n+cadeira\n s%5Bindex%5D = Clien\n@@ -1153,25 +1153,14 @@\n %5D = \n-C\n+c\n lient\n-(id, phone)\n %0A%0A  \n@@ -1191,21 +1191,17 @@\n         \n-index\n+c\n  = self.\n@@ -1223,21 +1223,17 @@\n      if \n-index\n+c\n  == -1:%0A\n@@ -1248,25 +1248,21 @@\n     \n-raise Exception(%22\n+print(%22fail: \n clie\n@@ -1298,91 +1298,50 @@\n     \n-self.seats%5Bindex%5D = None%0A%0A    def get_seats(self):%0A        return self.seats.copy()\n+    return%0A        self.cadeiras%5Bc%5D = None\n %0A%0A  \n@@ -1535,394 +1535,125 @@\n %22%5D%22%0A\n-%0A \n    \n+%0A\n def \n-_search(self, name):%0A        for i, seat in enumerate(self.seats):%0A            if seat and seat.get_id() == name:%0A                return i%0A        return -1%0A%0A    def _verify_index(self, index):%0A        return 0 %3C= index %3C len(self.seats)%0A%0A# Main execution%0Aimport sys%0A%0Atheater = Theater()%0Afor line in sys.stdin:%0A    line = line.strip()%0A    if not\n+main():%0A    cinema = Theater(%22%22)%0A    while True:%0A        line = input()%0A        print(%22$%22 +\n  line\n-:%0A \n+)%0A\n      \n-  continue%0A\n    \n- p\n ar\n-t\n+g\n s = \n@@ -1667,36 +1667,40 @@\n lit(\n+%22 %22\n )%0A    \n-cmd = part\n+    if arg\n s%5B0%5D\n-%0A    try\n+ == %22end%22\n :%0A  \n@@ -1709,544 +1709,395 @@\n     \n-if cmd == '$init':%0A            num_seats = int(parts%5B1%5D) if len(parts) %3E 1 else 0%0A            theater = Theater(num_seats)%0A        elif cmd == '$reserve':%0A            id = parts%5B1%5D%0A            phone = \n+    break%0A        if args%5B0%5D == %22end%22:%0A                break%0A        elif args%5B0%5D == %22init%22:%0A                cinema = Theater(\n int(\n-p\n ar\n-ts%5B2%5D)%0A            index = int(parts%5B3%5D)%0A            theater.reserve(id, phone, index)%0A        elif cmd == '$cancel':%0A            id = part\n+gs%5B1%5D))%0A        elif args%5B0%5D == %22show%22:%0A                print(cinema)%0A        elif args%5B0%5D == %22reserve%22:%0A                cinema.reserve(arg\n s%5B1%5D\n-%0A            theater.cancel(id)%0A        elif cmd == '$show':%0A            print(theater)%0A        elif cmd == '$end':%0A            break%0A    except Exception as e:%0A        print(f%22fail: %7Be%7D%22\n+, args%5B2%5D, int(args%5B3%5D))%0A        elif args%5B0%5D == %22cancel%22:%0A                cinema.cancel(args%5B1%5D)%0A        %0A%0A%0Amain(\n )%0A\n",
+            "lines": "83"
+        },
+        {
+            "label": "2025-11-12_02-01-52",
+            "content": "@@ -1560,19 +1560,18 @@\n ion%0A\n-def main():\n+import sys\n %0A%0Ath\n@@ -1592,28 +1592,31 @@\n r()%0A\n-    while True:%0A    \n+for line in sys.stdin:%0A\n     \n@@ -1626,41 +1626,37 @@\n e = \n+l\n in\n-put()%0A        print(%22$%22 +\n+e.strip()%0A    if not\n  line\n-)\n+:\n %0A   \n@@ -1660,19 +1660,33 @@\n         \n+continue%0A    p\n ar\n-g\n+t\n s = line\n@@ -1696,59 +1696,37 @@\n lit(\n-%22 %22\n )%0A    \n-    if arg\n+cmd = part\n s%5B0%5D\n- == %22end%22:%0A            break\n+%0A    try:\n %0A   \n@@ -1733,28 +1733,25 @@\n      if \n-args%5B0%5D\n+cmd\n  == '\n+$\n init':%0A \n@@ -1777,19 +1777,20 @@\n s = int(\n+p\n ar\n-g\n+t\n s%5B1%5D) if\n@@ -1794,19 +1794,20 @@\n  if len(\n+p\n ar\n-g\n+t\n s) %3E 1 e\n@@ -1870,17 +1870,17 @@\n lif \n-args\n+cmd\n  == '\n+$\n rese\n@@ -1894,35 +1894,36 @@\n            id = \n+p\n ar\n-g\n+t\n s%5B1%5D%0A           \n@@ -1935,19 +1935,20 @@\n e = int(\n+p\n ar\n-g\n+t\n s%5B2%5D)%0A  \n@@ -1969,19 +1969,20 @@\n x = int(\n+p\n ar\n-g\n+t\n s%5B3%5D)%0A  \n@@ -2038,28 +2038,25 @@\n    elif \n-args%5B0%5D\n+cmd\n  == '\n+$\n cancel':\n@@ -2073,19 +2073,20 @@\n    id = \n+p\n ar\n-g\n+t\n s%5B1%5D%0A   \n@@ -2130,20 +2130,17 @@\n lif \n-args%5B0%5D\n+cmd\n  == '\n+$\n show\n@@ -2173,11 +2173,105 @@\n er)%0A\n-main(\n+        elif cmd == '$end':%0A            break%0A    except Exception as e:%0A        print(f%22fail: %7Be%7D%22\n )%0A\n",
+            "lines": "86"
+        },
+        {
+            "label": "2025-11-12_02-06-06",
+            "content": "@@ -1569,20 +1569,16 @@\n ain():%0A%0A\n-    \n theater \n",
+            "lines": "82"
+        },
+        {
+            "label": "2025-11-12_02-06-22",
+            "content": "@@ -1539,16 +1539,32 @@\n seats)%0A%0A\n+# Main execution\n %0Adef mai\n",
+            "lines": "82"
+        },
+        {
+            "label": "2025-11-12_02-07-56",
+            "content": "@@ -362,17 +362,16 @@\n hone%7D%22%0A%0A\n-%0A\n class Th\n@@ -444,24 +444,12 @@\n None\n- for _ in range(\n+%5D * \n num_\n@@ -457,10 +457,8 @@\n eats\n-)%5D\n %0A%0A  \n@@ -588,17 +588,16 @@\n xiste%22)%0A\n-%0A\n         \n@@ -685,25 +685,24 @@\n upada%22)%0A\n-%0A\n         \n if self.\n@@ -689,26 +689,40 @@\n a%22)%0A        \n-if\n+existing_index =\n  self._searc\n@@ -726,16 +726,42 @@\n arch(id)\n+%0A        if existing_index\n  != -1:%0A\n@@ -817,17 +817,16 @@\n inema%22)%0A\n-%0A\n         \n@@ -1054,9 +1054,10 @@\n  get\n-S\n+_s\n eats\n@@ -1184,174 +1184,71 @@\n     \n-result = %5B%5D%0A        for seat in self.seats:%0A            if seat is None:%0A                result.append(%22-%22)%0A            else:%0A                result.append(str(\n+seat_strs = %5Bstr(seat) if seat else %22-%22 for seat in self.\n seat\n-))\n+s%5D\n %0A   \n@@ -1278,14 +1278,17 @@\n oin(\n-result\n+seat_strs\n ) + \n@@ -1391,20 +1391,8 @@\n eat \n-is not None \n and \n@@ -1552,26 +1552,28 @@\n main():%0A\n+%0A\n     \n-cinema\n+theater\n  = Theat\n@@ -1580,24 +1580,8 @@\n er()\n-  # come%C3%A7a vazio\n %0A   \n@@ -1593,33 +1593,16 @@\n e True:%0A\n-        try:%0A    \n         \n@@ -1620,93 +1620,8 @@\n t()%0A\n-        except EOFError:%0A            break%0A        if not line:%0A            continue%0A\n     \n@@ -1668,16 +1668,19 @@\n e.split(\n+%22 %22\n )%0A      \n@@ -1685,21 +1685,18 @@\n     \n-cmd =\n+if\n  args%5B0%5D\n %0A%0A  \n@@ -1695,147 +1695,177 @@\n s%5B0%5D\n-%0A%0A        try:%0A            if cmd == %22end%22:%0A                break%0A            elif cmd == %22show%22:%0A                print(cinema)%0A   \n+ == %22end%22:%0A            break%0A        if args%5B0%5D == 'init':%0A            num_seats = int(args%5B1%5D) if len(args) %3E 1 else 0%0A            theater = Theater(num_seats)%0A\n         \n  eli\n@@ -1864,62 +1864,77 @@\n     \n- \n elif \n-cmd == %22init%22:%0A                cinema = Theater(\n+args == 'reserve':%0A            id = args%5B1%5D%0A            phone = \n int(\n@@ -1942,12 +1942,11 @@\n rgs%5B\n-1\n+2\n %5D)\n-)\n %0A   \n@@ -1958,98 +1958,75 @@\n     \n-elif cmd == %22reserve%22:%0A                cinema.reserve(args%5B1%5D, args%5B2%5D, int(args%5B3%5D))%0A    \n+index = int(args%5B3%5D)%0A            theater.reserve(id, phone, index)%0A\n     \n@@ -2038,23 +2038,27 @@\n lif \n-cmd\n+args%5B0%5D\n  == \n-%22\n+'\n cancel\n-%22\n+'\n :%0A  \n@@ -2071,26 +2071,48 @@\n     \n-    cinema\n+id = args%5B1%5D%0A            theater\n .cancel(\n args\n@@ -2107,23 +2107,18 @@\n .cancel(\n-args%5B1%5D\n+id\n )%0A      \n@@ -2124,28 +2124,29 @@\n    e\n-xcept Exception as e\n+lif args%5B0%5D == 'show'\n :%0A  \n@@ -2165,23 +2165,16 @@\n int(\n-f%22fail: %7Be%7D%22)%0A%0A\n+theater)\n %0Amai\n",
+            "lines": "82"
+        },
+        {
+            "label": "2025-11-12_02-24-49",
+            "content": "class Client:\n    def __init__(self, id, phone):\n        self.id = id\n        self.phone = phone\n\n    def get_id(self):\n        return self.id\n\n    def set_id(self, id):\n        self.id = id\n\n    def get_phone(self):\n        return self.phone\n\n    def set_phone(self, phone):\n        self.phone = phone\n\n    def __str__(self):\n        return f\"{self.id}:{self.phone}\"\n\n\nclass Theater:\n    def __init__(self, num_seats=0):\n        self.seats = [None for _ in range(num_seats)]\n\n    def reserve(self, id, phone, index):\n        if not self._verify_index(index):\n            raise Exception(\"cadeira nao existe\")\n\n        if self.seats[index] is not None:\n            raise Exception(\"cadeira ja esta ocupada\")\n\n        if self._search(id) != -1:\n            raise Exception(\"cliente ja esta no cinema\")\n\n        self.seats[index] = Client(id, phone)\n\n    def cancel(self, id):\n        index = self._search(id)\n        if index == -1:\n            raise Exception(\"cliente nao esta no cinema\")\n        self.seats[index] = None\n\n    def getSeats(self):\n        return self.seats.copy()\n\n    def __str__(self):\n        if not self.seats:\n            return \"[]\"\n        result = []\n        for seat in self.seats:\n            if seat is None:\n                result.append(\"-\")\n            else:\n                result.append(str(seat))\n        return \"[\" + \" \".join(result) + \"]\"\n\n    def _search(self, name):\n        for i, seat in enumerate(self.seats):\n            if seat is not None and seat.get_id() == name:\n                return i\n        return -1\n\n    def _verify_index(self, index):\n        return 0 <= index < len(self.seats)\n\n\ndef main():\n    cinema = Theater()  # come\u00e7a vazio\n    while True:\n        try:\n            line = input()\n        except EOFError:\n            break\n        if not line:\n            continue\n        print(\"$\" + line)\n        args = line.split()\n        cmd = args[0]\n\n        try:\n            if cmd == \"end\":\n                break\n            elif cmd == \"show\":\n                print(cinema)\n            elif cmd == \"init\":\n                cinema = Theater(int(args[1]))\n            elif cmd == \"reserve\":\n                cinema.reserve(args[1], args[2], int(args[3]))\n            elif cmd == \"cancel\":\n                cinema.cancel(args[1])\n        except Exception as e:\n            print(f\"fail: {e}\")\n\n\nmain()\n",
+            "lines": "96"
+        }
+    ]
+}

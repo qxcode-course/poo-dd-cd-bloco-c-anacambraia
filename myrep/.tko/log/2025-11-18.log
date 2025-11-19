@@ -1,0 +1,16 @@
+2025-11-18 19:25:23, MOVE, v:1, k:poo@pula-pula, mode:PICK
+2025-11-18 19:25:25, EXEC, v:1, k:poo@pula-pula, mode:FULL, rate:0, size:72
+2025-11-18 19:25:35, EXEC, v:1, k:poo@pula-pula, mode:FULL, rate:0
+2025-11-18 19:26:17, MOVE, v:1, k:poo@pula-pula, mode:BACK
+2025-11-18 19:26:20, MOVE, v:1, k:poo@cinema, mode:PICK
+2025-11-18 19:26:21, EXEC, v:1, k:poo@cinema, mode:FULL, rate:100
+2025-11-18 19:26:23, MOVE, v:1, k:poo@cinema, mode:BACK
+2025-11-18 19:27:35, MOVE, v:1, k:poo@budega, mode:PICK
+2025-11-18 19:27:36, EXEC, v:1, k:poo@budega, mode:FULL, rate:100
+2025-11-18 19:27:39, MOVE, v:1, k:poo@budega, mode:BACK
+2025-11-18 19:27:42, MOVE, v:1, k:poo@lapiseira, mode:PICK
+2025-11-18 19:27:43, EXEC, v:1, k:poo@lapiseira, mode:FULL, rate:100
+2025-11-18 19:27:45, MOVE, v:1, k:poo@lapiseira, mode:BACK
+2025-11-18 19:27:50, MOVE, v:1, k:poo@cinema, mode:PICK
+2025-11-18 19:27:51, EXEC, v:1, k:poo@cinema, mode:FULL, rate:100, size:96
+2025-11-18 19:27:52, MOVE, v:1, k:poo@cinema, mode:BACK

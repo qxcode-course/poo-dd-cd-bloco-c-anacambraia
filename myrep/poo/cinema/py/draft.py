@@ -66,7 +66,7 @@ class Theater:
 
 
 def main():
-    cinema = Theater()  # começa vazio
+    cinema = Theater()
     while True:
         try:
             line = input()

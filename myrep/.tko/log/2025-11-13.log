@@ -1,0 +1,5 @@
+2025-11-13 17:50:29, MOVE, v:1, k:poo@tabuleiro, mode:PICK
+2025-11-13 17:50:30, EXEC, v:1, k:poo@tabuleiro, mode:FULL, rate:0, size:0
+2025-11-13 17:55:54, MOVE, v:1, k:poo@tabuleiro, mode:BACK
+2025-11-13 17:55:57, MOVE, v:1, k:poo@junkfood, mode:PICK
+2025-11-13 17:55:58, EXEC, v:1, k:poo@junkfood, mode:FULL, rate:0, size:0

@@ -1,72 +1,85 @@
-class Client:
-    def __init__(self, id, phone):
-        self.id = id
-        self.phone = phone
+class Kid:
+    def __init__(self, nome, idade):
+        self.nome = nome
+        self.idade = idade
 
     def __str__(self):
-        return f"{self.id}:{self.phone}"
+        return f"{self.nome}:{self.idade}"
 
 
-class Theater:
-    def __init__(self, num_seats=0):
-        self.seats = [None] * num_seats
+class Trampoline:
+    def __init__(self):
+        self.waiting = []   # fila de espera
+        self.playing = []   # crianças dentro do pula-pula
 
-    def reserve(self, id, phone, index):
-        if not self._verify_index(index):
-            raise Exception("cadeira nao existe")
-        if self.seats[index] is not None:
-            raise Exception("cadeira ja esta ocupada")
-        if self._search(id) != -1:
-            raise Exception("cliente ja esta no cinema")
-        self.seats[index] = Client(id, phone)
+    def arrive(self, nome, idade):
+        self.waiting.insert(0, Kid(nome, idade))
 
-    def cancel(self, id):
-        index = self._search(id)
-        if index == -1:
-            raise Exception("cliente nao esta no cinema")
-        self.seats[index] = None
+    def enter(self):
+        if len(self.waiting) > 0:
+            kid = self.waiting.pop()
+            self.playing.insert(0, kid)
 
-    def _search(self, id):
-        for i, seat in enumerate(self.seats):
-            if seat and seat.id == id:
-                return i
-        return -1
+    def leave(self):
+        if len(self.playing) > 0:
+            kid = self.playing.pop()
+            self.waiting.insert(0, kid)
 
-    def _verify_index(self, index):
-        return 0 <= index < len(self.seats)
+    def remove(self, nome):
+
+        # primeiro tenta remover do playing
+        for i, k in enumerate(self.playing):
+            if k.nome == nome:
+                self.playing.pop(i)
+                return
+
+        # depois tenta remover do waiting
+        for i, k in enumerate(self.waiting):
+            if k.nome == nome:
+                self.waiting.pop(i)
+                return
+
+        print(f"fail: {nome} nao esta no pula-pula")
 
     def __str__(self):
-        if not self.seats:
-            return "[]"
-        parts = [str(seat) if seat else "-" for seat in self.seats]
-        return "[" + " ".join(parts) + "]"
+        # CORREÇÃO: a fila deve aparecer na ordem natural (sem reversed)
+        w = "[" + ", ".join(str(k) for k in self.waiting) + "]"
+        p = "[" + ", ".join(str(k) for k in self.playing) + "]"
+        return f"{w} => {p}"
 
 
 def main():
-    pula = Trampoline()
+    tramp = Trampoline()
     while True:
-        line = input()
-        print("$" + line)
-        args = line.split(" ")
-        if args[0] == "end":
+        line = input().strip()
+
+        if line == "":
+            continue
+
+        print(f"${line}")  # exigido pelos testes
+
+        parts = line.split()
+        cmd = parts[0]
+
+        if cmd == "arrive":
+            tramp.arrive(parts[1], int(parts[2]))
+
+        elif cmd == "enter":
+            tramp.enter()
+
+        elif cmd == "leave":
+            tramp.leave()
+
+        elif cmd == "remove":
+            tramp.remove(parts[1])
+
+        elif cmd == "show":
+            print(tramp)
+
+        elif cmd == "end":
             break
-        elif args[0] == "arrive":
-            name = args[1]
-            age = int(args[2])
-            kid = Kid(name, age)
-            pula.arrive(kid)
-        elif args[0] == "show":
-            print(pula)
-        elif args[0] == "enter":
-            pula.enter()
-        elif args[0] == "leave":
-            pula.leave()
-        elif args[0] == "remove":
-            name = args[1]
-            pula.remove(name)
-        elif args[0] == "init":
 
 
+if __name__ == "__main__":
+    main()
 
-main()
-    
